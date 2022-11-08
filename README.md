@@ -19,7 +19,7 @@
   <!---<img align="center" alt="php-jjm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Arduino-jjm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> --->
   <img align="center" alt="python-jjm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="myprofilep" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202211/11534_5Ly8PGRv.png">
+  <img align="right" alt="myprofilep" height="150" style="border-radius:60px;" src="https://cdn.picrew.me/shareImg/org/202211/11534_RIeoJRnv.png">
   </div>
    
          
