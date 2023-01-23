@@ -8,8 +8,8 @@ Sou um desenvolvedor full-stack com experiência em diversas tecnologias, inclui
 
 <div align="center">
   <a href="https://github.com/jjoaom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjoaom&show_icons=true&theme=ocean_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaom&show_icons=true&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjoaom&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaom&show_icons=true&theme=algolia"/>
 </div>
 
 ## Habilidades
