@@ -8,10 +8,13 @@
 
 <div align="center">
   <a href="https://github.com/jjoaom">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=jjoaom&show_icons=true&theme=algolia"/>
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaom&show_icons=true&theme=algolia"/>
 </div>
 
+<div align="center">
+ <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=jjoaom&show_icons=true&theme=algolia"/>
+</div>
+  
 ## Habilidades
 
 <div align="center">
