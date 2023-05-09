@@ -40,8 +40,9 @@
   ## Meu Setup Atual
   
   <p>Placa mãe: B450 Aorus M</p>
-  <p>Processador: Ryzen 5 5600g</p>
-  <p>Ram: 32gb</p>
+  <p>CPU: Ryzen 5 5600g</p>
+  <p>GPU: RX 6650xt</p>
+  <p>Ram: 16gb</p>
   <p>Ssd: 465gb NVME</p>
   <p>Armazenamento: 1Tb Hd</p>
   
