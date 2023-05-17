@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
- <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=jjoaom&show_icons=true&theme=algolia"/>
+ <img height="200rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jjoaom&show_icons=true&theme=algolia"/>
 </div>
   
 ## Habilidades
