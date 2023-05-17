@@ -3,7 +3,7 @@
 ## Sobre mim
 
 <p>Sou um desenvolvedor full-stack com experiência em tecnologias como Linux, HTML, CSS, JavaScript, C#, .NET, e PHP. </p>
-<p>Atualmente estou gostando bastante de trabalhar usando POO e SASS</p>
+
 
 ## Estatísticas do GitHub
 
