@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-<p>Sou um desenvolvedor full-stack com experiência em tecnologias como Linux, HTML, CSS, JavaScript, C#, .NET, e PHP. </p>
+<p>Sou um desenvolvedor com experiência em tecnologias como Linux, HTML, CSS, JavaScript, C#, SASS, e PHP. </p>
 
 
 ## Estatísticas do GitHub
