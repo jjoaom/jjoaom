@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-<p>Sou um desenvolvedor com experiência em tecnologias como Linux, HTML, CSS, JavaScript, C#, SASS, e PHP. </p>
-
+<p>Sou um desenvolvedor com experiência em tecnologias como Linux, HTML, CSS, JavaScript, SASS, e PHP. </p>
+<p>Atualmente curso Engenharia de Software na Puc Minas</p>
 
 ## Estatísticas do GitHub
 
