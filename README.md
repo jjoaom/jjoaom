@@ -1,6 +1,4 @@
-<meta property="og:title" content="jjoaom" />
-<meta property="og:image" content="https://avatars.githubusercontent.com/u/100643312?v=4" />
-<meta property="og:description" content="Olá! Seja bem vindo ao meu perfil do Github. Venha conhecer os meus projetos." />
+
 
   # Olá! Eu sou o João Marcos
 
