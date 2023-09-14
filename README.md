@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-<p>Possuo experiência em tecnologias como Linux, HTML, CSS, JavaScript, SASS, e PHP. </p>
+<p>Possuo experiência em tecnologias como Linux, HTML, CSS, JavaScript, SASS, C e PHP. </p>
 <p>Atualmente curso Engenharia de Software na Puc Minas</p>
 
 ## Estatísticas do GitHub
