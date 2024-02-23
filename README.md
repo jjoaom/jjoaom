@@ -1,34 +1,21 @@
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm João Marcos</h1>
+<h3 align="center">A passionate Software Engineering student and Full Stack Developer.</h3>
 
+## 🙋‍♂️ About Me
 
-  # Olá! Eu sou o João Marcos
+- 🎓 I'm currently pursuing a degree in **Software Engineering**.
+- 💻 I'm proficient in **HTML, CSS, JavaScript, jQuery, PHP, Bootstrap, C, C++, SCRUM, and Kanban**.
+- ⚒️ I'm constantly learning and improving my skills.
 
-## Sobre mim
+## 🚀 Languages and Tools:
 
-<p>Possuo experiência em tecnologias como Linux, HTML, CSS, JavaScript, SASS, C e PHP. </p>
-<p>Atualmente curso Engenharia de Software na Puc Minas</p>
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/jjoaom">
-  <img height="333rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jjoaom&show_icons=true&theme=algolia"/>
-</div>
-
-<div align="center">
- <img height="200rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jjoaom&show_icons=true&theme=algolia"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,jquery,linux,php,sass,ubuntu,mysql,c,cpp,cs,arduino" />
+  </a>
+</p>
   
-## Habilidades
-
-<div align="center">
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-</div>
-  
-  ##
+  ## Social Media
   
   <div align="center"> 
   <a href="https://instagram.com/jjoaomm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,7 +24,7 @@
   </div>
   
   
-  ## Meu Setup Atual
+  ## My Setup
   
   <p>Placa mãe: B450 Aorus M</p>
   <p>CPU: Ryzen 5 5600g</p>
