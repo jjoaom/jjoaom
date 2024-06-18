@@ -4,14 +4,14 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 I'm currently pursuing a degree in **Software Engineering**.
-- 💻 I'm proficient in **HTML, CSS, JavaScript, jQuery, PHP, Bootstrap, C, C++, SCRUM, and Kanban**.
+- 💻 I'm proficient in **HTML, CSS, JavaScript, jQuery, PHP, Bootstrap, C, SCRUM, and Kanban**.
 - ⚒️ I'm constantly learning and improving my skills.
 
 ## 🚀 Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,jquery,linux,php,sass,ubuntu,mysql,c,cpp,cs,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,linux,php,sass,ubuntu,mysql,c,cpp,git" />
   </a>
 </p>
   
