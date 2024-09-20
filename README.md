@@ -15,16 +15,16 @@
 
 ## Languages and Tools:
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
-  <div style="flex: 1; text-align: left;">
+  <div style="margin: 0 20px; text-align: center;">
     <h3>Front-end</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,sass&theme=light&iconcolor=067E1B" />
     </a>
   </div>
 
-  <div style="flex: 1; text-align: right;">
+  <div style="margin: 0 20px; text-align: center;">
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=php,mysql,c,cpp,linux,git&theme=light&iconcolor=067E1B" />
@@ -32,6 +32,7 @@
   </div>
 
 </div>
+
 
 
 
