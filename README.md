@@ -15,7 +15,7 @@
 
 ## Languages and Tools:
 
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
 
   <div style="margin: 0 20px; text-align: center;">
     <h3>Front-end</h3>
@@ -32,6 +32,7 @@
   </div>
 
 </div>
+
 
 
 
