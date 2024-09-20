@@ -14,11 +14,25 @@
 
 
 ## Languages and Tools:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,linux,mint,php,sass,mysql,c,cpp,git&theme=light&iconcolor=067E1B" />
-  </a>
-</p>
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; text-align: left;">
+    <h3>Front-end</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,sass&theme=light&iconcolor=067E1B" />
+    </a>
+  </div>
+
+  <div style="flex: 1; text-align: right;">
+    <h3>Back-end</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,mysql,c,cpp,linux,git&theme=light&iconcolor=067E1B" />
+    </a>
+  </div>
+
+</div>
+
 
 
 
