@@ -1,9 +1,9 @@
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&pause=1000&color=067E1B&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Jo%C3%A3o+Marcos)](https://git.io/typing-svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjoaom&show_icons=true&hide_border=true&bg_color=00000000&title_color=067E1BFF&icon_color=067E1BFF&text_color=067E1BFF)
-
+</div>
 
 
 <div align="center">
