@@ -38,15 +38,17 @@
 </div>
 
 
+## Security
+
+- [CodeQL](https://codeql.github.com/)
+- [Nmap](https://nmap.org/)
+- [Burp Suite](https://portswigger.net/burp)
+- [Aqua Security](https://www.aquasec.com/)
+- [Trivy](https://trivy.dev/)
+- [Semgrep](https://semgrep.dev/)
 
 
 
 
 
-## My Setup
-- *B450 Aorus M*
-- *Ryzen 5 5600g*
-- *RX 6650xt*
-- *16gb DDR4*
-- *465gb NVME*
-- *1Tb Hd*
+
