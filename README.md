@@ -19,16 +19,22 @@
 
   <div style="margin: 0 20px; text-align: center;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,sass&theme=light&iconcolor=067E1B" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,sass,nodejs&theme=light&iconcolor=067E1B" />
     </a>
   </div>
 
   <div style="margin: 0 20px; text-align: center;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,mysql,c,cpp,linux,git&theme=light&iconcolor=067E1B" />
+      <img src="https://skillicons.dev/icons?i=java,php,mysql,c,cpp,linux,git,npm&theme=light&iconcolor=067E1B" />
     </a>
   </div>
 
+  <div style="margin: 0 20px; text-align: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,azure,bash,cloudflare,docker,kali,latex,postman&theme=light&iconcolor=067E1B" />
+    </a>
+  </div>
+  
 </div>
 
 
