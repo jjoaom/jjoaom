@@ -16,6 +16,8 @@ https://github.com/lowlighter/metrics
   </a> 
 </div>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 ## Languages and Tools:
