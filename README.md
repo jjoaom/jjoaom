@@ -7,7 +7,10 @@
 https://github.com/lowlighter/metrics
 -->
 
-![](https://komarev.com/ghpvc/?username=jjoaom&color=067e1b&style=plastic)
+
+  ![](https://komarev.com/ghpvc/?username=jjoaom&color=067e1b&style=plastic)
+
+
 
 
 <div align="left">
@@ -16,6 +19,8 @@ https://github.com/lowlighter/metrics
   </a> 
 </div>
 
+
+## Certifications
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/45c3fed0-2991-413f-9ff5-29807e096668" title="Certified in Cybersecurity (CC)"><img src="https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/eea32cb4-8f71-40ac-b2ed-7ce65dffbb10" title="Endpoint Security"><img src="https://images.credly.com/size/80x80/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" width="80" height="80"></a>
@@ -31,23 +36,13 @@ https://github.com/lowlighter/metrics
 
 <div align="left" style="display: flex; justify-content: center;">
 
-  <div style="margin: 0 20px; text-align: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,sass,nodejs&theme=light&iconcolor=067E1B" />
-    </a>
-  </div>
 
-  <div style="margin: 0 20px; text-align: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,php,mysql,c,cpp,linux,git,npm&theme=light&iconcolor=067E1B" />
+ <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nodejs,npm,docker,java,spring,mysql,c,cpp,linux,windows,kali,bash,git,aws,azure,cloudflare,arduino&perline=5&theme=light&iconcolor=067E1B" />
     </a>
-  </div>
 
-  <div style="margin: 0 20px; text-align: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,bash,cloudflare,docker,kali,latex,postman&theme=light&iconcolor=067E1B" />
-    </a>
-  </div>
+
+ 
   
 </div>
 
