@@ -1,13 +1,13 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=50&&pause=1000&color=067E1B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+Jo%C3%A3o+Marcos)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&pause=1000&color=067E1B&center=true&vCenter=true&multiline=true&width=1000&lines=Hi%2C+I'm+Jo%C3%A3o+Marcos)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://www.linkedin.com/in/jjoaom/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-067E1B?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
-<div align="center">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<div align="center">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠀⠀⠀⠀⠀⠀⠀⠀⢠⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣄⠀⠀⢀⣿⠀⢀⣢⣿⣿⠀⠀⢀⣾⡀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -45,20 +45,18 @@
 
 
 
-## About me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=About+me)](https://git.io/typing-svg)
 
 I'm João Marcos. Mainly focused on **Cybersecurity**, **Software Engineering**, **Secure Development** and **DevSecOps**.  
 Currently studying and building projects around **Appication Security**, and **DevSecOps**.
 
 ---
-
-## GitHub Stats
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=Github+Stats)](https://git.io/typing-svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjoaom&theme=chartreuse_dark)
 
 ---
-
-## Certifications
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=Certifications)](https://git.io/typing-svg)
 
 <details>
   <summary>Click to expand</summary>
@@ -76,27 +74,28 @@ Currently studying and building projects around **Appication Security**, and **D
 </details>
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=Languages+%26+Tools)](https://git.io/typing-svg)
 
-## Languages & Tools
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&&pause=500&color=067E1B&multiline=true&width=500&lines=Development)](https://git.io/typing-svg)
 
-### Development
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql&perline=8&theme=light"/>
 </a>
 
-### Cloud / DevOps
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&&pause=500&color=067E1B&multiline=true&width=500&lines=Cloud+%2F+Devops)](https://git.io/typing-svg)
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,aws,azure,cloudflare,git,npm&perline=8&theme=light"/>
 </a>
 
-### Systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&&pause=500&color=067E1B&multiline=true&width=500&lines=Systems)](https://git.io/typing-svg)
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,windows,kali,bash&perline=8&theme=light"/>
 </a>
 
 ---
-
-## Security Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=Security+Stack)](https://git.io/typing-svg)
 
 - **CodeQL** — static analysis for secure code review  
 - **Semgrep** — SAST rules and vulnerability triage  
