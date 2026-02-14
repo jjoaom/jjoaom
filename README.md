@@ -1,6 +1,11 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&pause=1000&color=067E1B&center=true&vCenter=true&multiline=true&width=1000&lines=Hi%2C+I'm+Jo%C3%A3o+Marcos)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jjoaom/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-067E1B?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 ---
 
@@ -45,25 +50,12 @@
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=jjoaom&color=067e1b&style=plastic)
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jjoaom/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-067E1B?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
 ---
 
 ## About me
 
-I'm João Marcos. Mainly focused on **Cybersecurity**, **Software Engineering**, **DevSecOps** and **Secure Development**.  
-Currently studying and building projects around **AppSec**, **network security**, and **DevSecOps**.
-
-- 🔐 Interests: AppSec, Pentest (Web), Linux
-- 🧰 Tools: Burp Suite, Nmap, CodeQL, Trivy, Semgrep  
-- 🌱 Learning: security automation + secure pipelines  
-- 📫 Contact: LinkedIn
+I'm João Marcos. Mainly focused on **Cybersecurity**, **Software Engineering**, **Secure Development** and **DevSecOps**.  
+Currently studying and building projects around **Appication Security**, and **DevSecOps**.
 
 ---
 
