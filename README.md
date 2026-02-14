@@ -52,6 +52,8 @@ Currently studying and building projects around **Appication Security**, and **D
   <summary>Click to expand</summary>
 
   <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/c12d09e5-dd30-460b-b5f2-e20bf84ea477" title="LFC108: Cybersecurity Essentials"><img src="https://images.credly.com/size/80x80/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob" alt="LFC108: Cybersecurity Essentials" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/1c903cc0-933c-4c24-88eb-c133fef99f04" title="LFD125: Security for Software Development Managers"><img src="https://images.credly.com/size/80x80/images/76c8bc91-42a6-4f06-9484-df961be2b0c8/blob" alt="LFD125: Security for Software Development Managers" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/45c3fed0-2991-413f-9ff5-29807e096668" title="Certified in Cybersecurity (CC)"><img src="https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/eea32cb4-8f71-40ac-b2ed-7ce65dffbb10" title="Endpoint Security"><img src="https://images.credly.com/size/80x80/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ecca32a2-8380-488d-8331-3c29f7d4031c" title="Networking Devices and Initial Configuration"><img src="https://images.credly.com/size/80x80/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration" width="80" height="80"></a>
