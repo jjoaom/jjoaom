@@ -56,6 +56,7 @@ Currently studying and building projects around **Appication Security**, and **D
   <summary>Click to expand</summary>
 
   <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/74939e62-42c6-447c-980a-1ec69b212f04" title="LFS180: Introduction to DevSecOps for Managers"><img src="https://images.credly.com/size/80x80/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" alt="LFS180: Introduction to DevSecOps for Managers" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b3537423-a4c5-4bf5-839e-0e8bbaeb8c5d" title="LFEL1002: Getting Started with Rust"><img src="https://images.credly.com/size/80x80/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob" alt="LFEL1002: Getting Started with Rust" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/fa51d6fc-35ff-4583-b680-148f95d5849e" title="LFEL1004: Authentication & Authorization for Web/API"><img src="https://images.credly.com/size/80x80/images/e4780fc4-274f-4751-b632-72c4df0ceb22/blob" alt="LFEL1004: Authentication & Authorization for Web/API" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c12d09e5-dd30-460b-b5f2-e20bf84ea477" title="LFC108: Cybersecurity Essentials"><img src="https://images.credly.com/size/80x80/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob" alt="LFC108: Cybersecurity Essentials" width="80" height="80"></a>
