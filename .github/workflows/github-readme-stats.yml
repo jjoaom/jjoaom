@@ -13,26 +13,20 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: >
-            username=${{ github.repository_owner}}
-            &show_icons=true
-            &hide_border=true
-            &bg_color=00000000
-            &title_color=067E1BFF
-            &icon_color=067E1BFF
-            &text_color=067E1BFF
+          options: username=jjoaom&show_icons=true&hide_border=true&bg_color=00000000&title_color=067E1BFF&icon_color=067E1BFF&text_color=067E1BFF
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+      - name: Commit generated card
         run: |
+          mkdir -p profile
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/stats.svg
