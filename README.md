@@ -37,7 +37,11 @@
 
 </div>
 
+<div align="center">⠀
+  
+[![Github Stats](/profile/stats.svg)]()
 
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=About+me)](https://git.io/typing-svg)
 
