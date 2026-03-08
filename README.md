@@ -45,7 +45,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=About+me)](https://git.io/typing-svg)
 
-I'm João Marcos. Mainly focused on **Cybersecurity**, **Software Engineering**, **Secure Development**, **DevOps** and **DevSecOps**.  
+I'm João Marcos. Mainly focused on **Cybersecurity**, **Software Engineering**, **Secure Development** and **DevSecOps**.  
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=Github+Stats)](https://git.io/typing-svg)
