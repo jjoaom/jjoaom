@@ -82,13 +82,13 @@ I'm João Marcos. Mainly focused on **Cybersecurity**, **Software Engineering**,
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&&pause=500&color=067E1B&multiline=true&width=500&lines=Development)](https://git.io/typing-svg)
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql&perline=8&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,java,kotlin,spring,mysql,postgresql&perline=8&theme=light"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&&pause=500&color=067E1B&multiline=true&width=500&lines=Cloud+%2F+Devops)](https://git.io/typing-svg)
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,cloudflare,git,npm&perline=8&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,cloudflare,git,githubactions,npm&perline=8&theme=light"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&&pause=500&color=067E1B&multiline=true&width=500&lines=Systems)](https://git.io/typing-svg)
