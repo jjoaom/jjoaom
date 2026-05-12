@@ -100,11 +100,11 @@ I'm João Marcos. Mainly focused on **Cybersecurity**, **Software Engineering**,
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&&pause=500&color=067E1B&multiline=true&width=500&lines=Security+Stack)](https://git.io/typing-svg)
 
-- **CodeQL** — static analysis for secure code review  
 - **Semgrep** — SAST rules and vulnerability triage  
-- **Trivy** — container + IaC vulnerability scanning  
-- **Nmap** — network discovery and service enumeration  
-- **Burp Suite** — web security testing (manual + automated)  
-- **Aqua Security** — container security and scanning  
+- **Trivy** — container + IaC vulnerability scanning
+- **ZAP** — Web App Dynamic code scanning
+- **Nmap** — network discovery and service enumeration
+- **CodeQL** — static analysis for secure code review 
+- **Burp Suite** — web security testing (manual + automated)   
 
 ---
