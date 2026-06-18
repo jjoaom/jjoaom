@@ -59,6 +59,7 @@ I'm João Marcos. Mainly focused on **Cybersecurity**, **Software Engineering**,
   <summary>Click to expand</summary>
 
   <!--START_SECTION:badges-->
+[![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/b62c47bc-ef6b-42fb-8334-8fe923dde55a)
 [![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/80x80/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/6c1086eb-ae7a-441a-8fa6-43e41a309cad)
 [![LFS180: Introduction to DevSecOps for Managers](https://images.credly.com/size/80x80/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob)](https://www.credly.com/badges/74939e62-42c6-447c-980a-1ec69b212f04)
 [![LFEL1002: Getting Started with Rust](https://images.credly.com/size/80x80/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob)](https://www.credly.com/badges/b3537423-a4c5-4bf5-839e-0e8bbaeb8c5d)
